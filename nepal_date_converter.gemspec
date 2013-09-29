@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = NepalDateConverter::VERSION
   spec.authors       = ["Chris Taggart"]
   spec.email         = ["info@opencorporates.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Convert Nepal Dates (BS) to AD dates}
+  spec.summary       = %q{Very basic, possibly rather brittle}
   spec.homepage      = ""
   spec.license       = "MIT"
 
